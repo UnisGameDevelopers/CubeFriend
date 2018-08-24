@@ -1,0 +1,8 @@
+name: CubeFriends
+main: com.cube.friend.CubeFriendPlugin
+version: 1.0
+depend: [CubeShopAPI]
+
+commands:
+  친구:
+    description: Cube Friend System -> /friend [command...]
